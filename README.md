@@ -6,7 +6,7 @@
 <div align = "center">
       <h4> 
           
- How to reach me: merab0aks0y@gmail.com / [Twitter - @](https://twitter.com/merab0s)
+ How to reach me: merab0aks0y@gmail.com / [Twitter - @merab0s](https://twitter.com/merab0s)
   </h4>
 </div>    
 
