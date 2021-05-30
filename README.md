@@ -31,9 +31,9 @@
 
 <div align="center" height=100>
     
- <img height=177  src="https://github-readme-stats.vercel.app/api?username=merAB0s&show_icons=true&theme=dark">
+ <img height=177  src="https://github-readme-stats.vercel.app/api?username=merAB0s&show_icons=true&theme=tokyonight">
   
- <img height=150  src="https://github-readme-stats.vercel.app/api/top-langs/?username=merAB0s&theme=dark&layout=compact">
+ <img height=177  src="https://github-readme-stats.vercel.app/api/top-langs/?username=merAB0s&theme=tokyonight&layout=dark">
 
 </div>
 
@@ -41,8 +41,10 @@
 
 <div align="center">  
     
-<!--  ![C#](https://img.shields.io/badge/C%23-239120?style=badge&logo=c-sharp&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white) -->
-  
+ <!-- ![C#](https://img.shields.io/badge/C%23-239120?style=badge&logo=c-sharp&logoColor=white) -->
+  ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white) 
+  ![Python](https://img.shields.io/badge/Python-239120?style=badge&logo=python&logoColor=white)
+ 
   </div>
   
   <div align="center">  
