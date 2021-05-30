@@ -33,7 +33,7 @@
     
  <img height=177  src="https://github-readme-stats.vercel.app/api?username=merAB0s&show_icons=true&theme=dark">
   
- <img height=177  src="https://github-readme-stats.vercel.app/api/top-langs/?username=merAB0s&theme=dark&layout=compact">
+ <img height=150  src="https://github-readme-stats.vercel.app/api/top-langs/?username=merAB0s&theme=dark&layout=compact">
 
 </div>
 
