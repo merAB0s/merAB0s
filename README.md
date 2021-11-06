@@ -12,13 +12,13 @@
 
 <div align = "center">
  <h4>   
- I’m currently working on HRMS(human resource management system)
+ //I’m currently working on HRMS(human resource management system)
     </h4>
 </div>
 
 <div align = "center">
      <h4> 
- I’m currently learning Java.
+ //I’m currently learning Java.
      </h4>
 </div>
 
